@@ -111,7 +111,7 @@ const SIPcard = () => {
                 </div>
                 <a
                     target="_blank"
-                    href={`https://twitter.com/`}
+                    href={`https://github.com/ShreyoPaul/`}
                     className="btn" >Rate my GitHUB</a>
             </div>
 

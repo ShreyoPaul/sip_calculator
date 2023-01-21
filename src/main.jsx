@@ -9,7 +9,7 @@ import ErrorPage from "./Components/Error404";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/sip_calculator/",
     element: <App/>,
     errorElement: <ErrorPage />,
   },
